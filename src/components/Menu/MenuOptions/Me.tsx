@@ -12,7 +12,7 @@ const Me = () => {
       target='_blank'
     >
       <HeartIcon />
-      {t('Buy me coffee!')}
+      {t('Buy us coffee!')}
     </a>
   );
 };
