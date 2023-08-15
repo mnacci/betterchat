@@ -29,13 +29,13 @@ export const modelOptions: ModelOptions[] = [
 export const defaultModel = 'gpt-3.5-turbo-16k';
 
 export const modelMaxToken = {
-  'gpt-3.5-turbo': 4096,
-  'gpt-3.5-turbo-0301': 4096,
-  'gpt-3.5-turbo-0613': 4096,
+  'gpt-3.5-turbo': 16384,
+  'gpt-3.5-turbo-0301': 16384,
+  'gpt-3.5-turbo-0613': 16384,
   'gpt-3.5-turbo-16k': 16384,
   'gpt-3.5-turbo-16k-0613': 16384,
   'llama-2-70b-chat': 16384,
-  'gpt-4': 8192,
+  'gpt-4': 16384,
   'gpt-4-0314': 8192,
   'gpt-4-0613': 8192,
   'gpt-4-32k': 32768,
