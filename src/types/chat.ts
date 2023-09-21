@@ -52,6 +52,7 @@ export interface Folder {
 export type ModelOptions = 'gpt-4' | 'gpt-4-32k' | 'gpt-3.5-turbo' | 'gpt-3.5-turbo-16k'
 | 'gpt-3.5-turbo-0301'
 | 'llama-2-70b-chat';
+| 'you-chat';
 // | 'gpt-4-0314'
 // | 'gpt-4-32k-0314'
 
