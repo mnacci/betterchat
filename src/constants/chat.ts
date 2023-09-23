@@ -18,13 +18,13 @@ export const _defaultSystemMessage =
 export const modelOptions: ModelOptions[] = [
   // 'gpt-3.5-turbo',
   'gpt-3.5-turbo-16k',
-  // 'gpt-4',
+  'gpt-4',
   // 'gpt-4-32k',
   // 'gpt-3.5-turbo-0301',
-  //:'llama-2-70b-chat',
+  'llama-2-70b-chat',
   // 'gpt-4-0314',
   // 'gpt-4-32k-0314',
-  'you-chat',
+  // 'you-chat',
 ];
 
 export const defaultModel = 'gpt-3.5-turbo-16k';
